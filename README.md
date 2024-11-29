@@ -1,2 +1,2 @@
 # landing-page
-my landing page for web development
+https://abhijeet1213.github.io/landing-page/
